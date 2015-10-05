@@ -47,3 +47,49 @@ body {
     background-color: black;
 }
 
+#searchArea {
+    padding-top: 30px;
+}
+
+
+#searchForm {
+    height: 30px;
+    width: 550px;
+    padding: 7px;
+    font-size: 16px;
+}
+
+#grayButtonsDiv {
+    padding-top: 20px;
+}
+
+.grayButton {
+    font-weight: bold;
+    color: darkslategray;
+    background-color: lightgrey;
+    display: inline-block;
+    padding: 10px 15px;
+    margin: 5px
+}
+
+#footer {
+
+    background-color: lightgrey;
+    color: darkslategray;
+}
+
+.footerElement {
+    display: inline-block;
+}
+
+.footerLink {
+    display: inline;
+}
+
+#leftFooter {
+    float: left;
+}
+
+#rightFooter {
+    float: right;
+}
